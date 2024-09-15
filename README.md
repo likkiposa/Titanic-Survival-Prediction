@@ -1,4 +1,4 @@
-# PRODIGY_DS_02
+# Titanic Survival Prediction
 # Overview
 PRODIGY_DS_Task2 is a Python script that demonstrates the use of Pandas and Matplotlib libraries for conducting data cleaning and exploratory data analysis (EDA). The script is designed to work with a dataset stored in a CSV file, handling missing values, dropping unnecessary columns, and generating various visualizations to uncover patterns and relationships within the data.
 
